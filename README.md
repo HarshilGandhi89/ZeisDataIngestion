@@ -2,6 +2,9 @@
 
 This repository contains the source code for Zeiss data ingestion tool developed using ASP.NET. The tool allows users to upload and ingest data from various sources and stores it in a database for further processing.
 
+![image](https://user-images.githubusercontent.com/131760954/234237104-08c1a2b8-25ce-46c8-8ecc-d2250930dd20.png)
+
+
 ##  Requirements
 
 Visual Studio 2019 or later
